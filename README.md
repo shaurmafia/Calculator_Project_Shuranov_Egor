@@ -26,7 +26,7 @@
 
 ### 1. Клонирование репозитория и запуск
 ```bash
-git clone https://github.com/shaurmafia/Calculator_Project.git
+git clone https://github.com/shaurmafia/Calculator_Project_Shuranov_Egor.git
 cd Calculator_Project
 
 python main.py
@@ -35,7 +35,14 @@ python __init__.py
 
 ```
 ## Структура Calculator_Project 
-- calculator.py      # Основной файл программы
+- main.py      # Основной файл программы
+- __init__.py
+- __main__.py
+- history.py
+- basic_operations.py
+- advanced_operations.py
+- currency_operations.py
+- menu.py
 - README.md          # Документация проекта
 - .gitignore         # Исключаемые файлы
 - requirements.txt   # Зависимости проекта (пустой)
