@@ -27,7 +27,7 @@
 ### 1. Клонирование репозитория и запуск
 ```bash
 git clone https://github.com/shaurmafia/Calculator_Project_Shuranov_Egor.git
-cd CalculatorProject
+cd Calculator_Project_Shuranov_Egor
 
 python main.py
 python __init__.py
